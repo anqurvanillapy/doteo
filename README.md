@@ -1,7 +1,6 @@
-# doteo
+<div align="center"><h1><i>doteo</i></h1></div>
 
-**D**ungeon **O**f **T**he **E**ndless **O**verkill, a 4-player mobile BA
-platformer, built on [egret](https://www.egret.com/).
+**D**ungeon **o**f **t**he **E**ndless **O**verkill, a mobile BA platformer.
 
 ## License
 
